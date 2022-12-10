@@ -1,0 +1,17 @@
+{
+	"name": "AzureSqlTableon_DB2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzurdbDemo2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "SelfCreatedEmp"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

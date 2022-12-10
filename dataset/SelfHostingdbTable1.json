@@ -1,0 +1,17 @@
+{
+	"name": "SelfHostingdbTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SelfHostingdbLink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "SelfHostingdbTable1"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "CSV_DataSet_AzureSql_Dest",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "CSV_DataSet_AzureSql_Dest"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
