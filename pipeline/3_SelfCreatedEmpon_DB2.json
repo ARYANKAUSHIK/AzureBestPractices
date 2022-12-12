@@ -1,5 +1,5 @@
 {
-	"name": "SelfCreatedEmpon_DB2",
+	"name": "3_SelfCreatedEmpon_DB2",
 	"properties": {
 		"activities": [
 			{
@@ -45,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTableon_DB2",
+						"referenceName": "3_AzureSqlTableon_DB2",
 						"type": "DatasetReference"
 					}
 				]
