@@ -1,5 +1,5 @@
 {
-	"name": "SelfCreatedEmp",
+	"name": "2_SelfCreatedEmp",
 	"properties": {
 		"description": "To Copy table structure and data from other source as to create SelfCreatedEmp",
 		"linkedServiceName": {

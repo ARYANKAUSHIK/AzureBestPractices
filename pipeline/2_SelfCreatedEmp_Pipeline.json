@@ -45,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "SelfCreatedEmp",
+						"referenceName": "2_SelfCreatedEmp",
 						"type": "DatasetReference"
 					}
 				]
