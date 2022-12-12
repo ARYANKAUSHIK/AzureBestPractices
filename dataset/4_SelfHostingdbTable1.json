@@ -1,5 +1,5 @@
 {
-	"name": "SelfHostingdbTable1",
+	"name": "4_SelfHostingdbTable1",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "SelfHostingdbLink",

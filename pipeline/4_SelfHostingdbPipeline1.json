@@ -1,5 +1,5 @@
 {
-	"name": "SelfHostingdbPipeline1",
+	"name": "4_SelfHostingdbPipeline1",
 	"properties": {
 		"activities": [
 			{
@@ -44,7 +44,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "SelfHostingdbTable1",
+						"referenceName": "4_SelfHostingdbTable1",
 						"type": "DatasetReference"
 					}
 				]
