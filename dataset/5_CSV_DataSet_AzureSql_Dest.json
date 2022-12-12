@@ -1,5 +1,5 @@
 {
-	"name": "CSV_DataSet_AzureSql_Dest",
+	"name": "5_CSV_DataSet_AzureSql_Dest",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureSqlDatabase1",

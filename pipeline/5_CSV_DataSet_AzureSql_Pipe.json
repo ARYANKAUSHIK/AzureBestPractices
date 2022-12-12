@@ -1,5 +1,5 @@
 {
-	"name": "CSV_DataSet_AzureSql_Pipe",
+	"name": "5_CSV_DataSet_AzureSql_Pipe",
 	"properties": {
 		"activities": [
 			{
@@ -45,13 +45,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "CSV_DataSet",
+						"referenceName": "5_CSV_DataSet",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "CSV_DataSet_AzureSql_Dest",
+						"referenceName": "5_CSV_DataSet_AzureSql_Dest",
 						"type": "DatasetReference"
 					}
 				]
