@@ -1,5 +1,5 @@
 {
-	"name": "pipelinedb1toDb2",
+	"name": "1pipelinedb1toDb2",
 	"properties": {
 		"activities": [
 			{
@@ -37,7 +37,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "1AzureSqlTable1",
 						"type": "DatasetReference"
 					}
 				],
